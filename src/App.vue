@@ -1,6 +1,6 @@
 <template>
   <div id="pokedex">
-    <h1 class="text--water">Pokedex - Exemplo prático do curso de Vue.js da Digital Inovation One</h1>
+    <h1 class="text--water bg--yellow">Pokedex - Exemplo prático do curso de Vue.js da Digital Inovation One</h1>
   </div>
 </template>
 
