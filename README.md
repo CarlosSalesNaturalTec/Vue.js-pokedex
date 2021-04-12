@@ -1,6 +1,8 @@
+![Logo Vue.js](\src\assets\logo.png)
+
 # Vue.js - Aplicação prática 
 
-Vue JS é um framework Javascript open source muito utilizado para criar aplicações de página única (Single Page Aplications) e também para desenvolver vários tipos de interfaces, que possuem necessidades de maior interação e experiência para o usuário.
+Vue JS é um framework Javascript open source muito utilizado para criar aplicações de página única (Single Page Aplications) e também para desenvolver vários tipos de interfaces, que possuem necessidades de maior interação e experiência para o usuário como veremos neste projeto.
 
 Este repositório é a execução prática do curso de Vue.JS disponibilizado pela plataforma [Digital Inovation One](https://digitalinnovation.one/) e ministrada pelo professor [Rafael Maia Chieregatto](https://github.com/rafaelmaiach)
 
